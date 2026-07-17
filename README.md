@@ -97,6 +97,58 @@ CodeAlpha_DataVisualization_Task3/
 - Standard Class shipping performed better than faster shipping modes in terms of profitability.
 
 
+## 🚀 Business Recommendations
+
+- Review pricing and discount strategies for the Tables sub-category.
+- Optimize discount policies to improve profit margins without significantly affecting sales.
+- Investigate the causes of low profitability in the East region.
+- Develop targeted strategies for lower-performing customer segments.
+- Evaluate the cost efficiency of Same Day shipping.
+- Continuously monitor profitability using business dashboards to support data-driven decision-making.
 
 
+## 🎯 Skills Demonstrated
 
+- Exploratory Data Analysis (EDA)
+- Business Problem Solving
+- Data Visualization
+- Dashboard Design
+- Business Storytelling
+- Statistical Analysis
+- Python Programming
+- Pandas
+- Matplotlib
+- Seaborn
+- Git & GitHub
+
+
+## 📚 Project Outcomes
+
+This project demonstrates how data visualization can transform raw business data into meaningful insights that support strategic decision-making.
+
+The dashboard provides an executive-level overview of profitability while enabling deeper analysis across products, discounts, regions, customer segments, and shipping methods.
+
+
+## ⭐ Repository Highlights
+
+✔ Business-focused dashboard
+
+✔ Executive KPI cards
+
+✔ Professional visualizations
+
+✔ Business insights and recommendations
+
+✔ Clean repository structure
+
+✔ Portfolio-ready documentation
+
+
+## 👨‍💻 About Me
+
+**Saharsh Anant Sarde**
+
+Aspiring Data Analyst passionate about solving business problems using Python, SQL, Excel, Power BI, and Data Visualization.
+
+- LinkedIn: https://www.linkedin.com/in/saharsh-sarde-1706782a8/
+- GitHub: https://github.com/Saharsh-DataAnalytics
